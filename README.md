@@ -104,7 +104,7 @@ VISHNU_FOOD_BITES2/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Bhagya-419/VishnuFoodBites.git
+   git clone https://github.com/your-username/VishnuFoodBites.git
    cd VishnuFoodBites
    ```
 
