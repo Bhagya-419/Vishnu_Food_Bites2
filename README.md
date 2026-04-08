@@ -27,11 +27,11 @@ This project focuses on **clean design, easy navigation, and efficient backend i
 
 * PHP
 * MySQL (XAMPP or phpMyAdmin)
-
 ---
 
 ## 📂 Project Structure
 
+```
 VISHNU_FOOD_BITES2/
 │
 └── vishnu_food_bites2/
@@ -98,8 +98,8 @@ VISHNU_FOOD_BITES2/
 ├── users_ordered_items.php
 └── view_orders.php
 
+```
 ---
-
 ## ⚙️ Setup & Installation
 
 1. Clone the repository:
