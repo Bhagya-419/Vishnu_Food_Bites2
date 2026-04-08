@@ -30,72 +30,73 @@ This project focuses on **clean design, easy navigation, and efficient backend i
 
 ---
 
+## 📂 Project Structure
+
 VISHNU_FOOD_BITES2/
 │
 └── vishnu_food_bites2/
-    │
-    ├── images/
-    │   ├── brownie.webp
-    │   ├── cakes.webp
-    │   ├── carrotjuice.jpeg
-    │   ├── centralsquare.jpg
-    │   ├── chickenburger.webp
-    │   ├── chickenpoppers.webp
-    │   ├── chickenpuffs.jpg
-    │   ├── chickenwings.webp
-    │   ├── chocolates.jpeg
-    │   ├── coffee.jpeg
-    │   ├── cooldrinks.jpg
-    │   ├── frenchfries.webp
-    │   ├── grapejuice.jpg
-    │   ├── icecreams.webp
-    │   ├── juicydrinks.jpg
-    │   ├── karbhujajuice.jpg
-    │   ├── lays_kurkure.webp
-    │   ├── milkshakes.jpg
-    │   ├── orangejuice.webp
-    │   ├── pomegranatejuice.webp
-    │   ├── rolls.jpg
-    │   ├── sandwich.webp
-    │   ├── templesquare.jpg
-    │   ├── vegballs.avif
-    │   ├── vegpuffs.jpg
-    │   ├── vegsticks.jpg
-    │   ├── watermelonjuice.jpg
-    │   └── yummie.jpg
-    │
-    ├── sql/
-    │   └── vishnu_food_bites.sql
-    │
-    ├── a1.php
-    ├── accept_order.php
-    ├── addtocart.php
-    ├── admin1.php
-    ├── adminfood1.php
-    ├── adminfood2.php
-    ├── adminfood3.php
-    ├── adminfood4.php
-    ├── cart.php
-    ├── check_stock.php
-    ├── db_config.php
-    ├── fooditems1.php
-    ├── fooditems2.php
-    ├── fooditems3.php
-    ├── fooditems4.php
-    ├── get_cart.php
-    ├── homepage.php
-    ├── index.php
-    ├── logout.php
-    ├── orderplaced.php
-    ├── process_accept_order.php
-    ├── removefromcart.php
-    ├── save_orders.php
-    ├── signup.php
-    ├── u2.php
-    ├── update_quantity.php
-    ├── users_ordered_items.php
-    └── view_orders.php
-
+│
+├── images/
+│ ├── brownie.webp
+│ ├── cakes.webp
+│ ├── carrotjuice.jpeg
+│ ├── centralsquare.jpg
+│ ├── chickenburger.webp
+│ ├── chickenpoppers.webp
+│ ├── chickenpuffs.jpg
+│ ├── chickenwings.webp
+│ ├── chocolates.jpeg
+│ ├── coffee.jpeg
+│ ├── cooldrinks.jpg
+│ ├── frenchfries.webp
+│ ├── grapejuice.jpg
+│ ├── icecreams.webp
+│ ├── juicydrinks.jpg
+│ ├── karbhujajuice.jpg
+│ ├── lays_kurkure.webp
+│ ├── milkshakes.jpg
+│ ├── orangejuice.webp
+│ ├── pomegranatejuice.webp
+│ ├── rolls.jpg
+│ ├── sandwich.webp
+│ ├── templesquare.jpg
+│ ├── vegballs.avif
+│ ├── vegpuffs.jpg
+│ ├── vegsticks.jpg
+│ ├── watermelonjuice.jpg
+│ └── yummie.jpg
+│
+├── sql/
+│ └── vishnu_food_bites.sql
+│
+├── a1.php
+├── accept_order.php
+├── addtocart.php
+├── admin1.php
+├── adminfood1.php
+├── adminfood2.php
+├── adminfood3.php
+├── adminfood4.php
+├── cart.php
+├── check_stock.php
+├── db_config.php
+├── fooditems1.php
+├── fooditems2.php
+├── fooditems3.php
+├── fooditems4.php
+├── get_cart.php
+├── homepage.php
+├── index.php
+├── logout.php
+├── orderplaced.php
+├── process_accept_order.php
+├── removefromcart.php
+├── save_orders.php
+├── signup.php
+├── u2.php
+├── update_quantity.php
+├── users_ordered_items.php
+└── view_orders.php
 
 ---
 
