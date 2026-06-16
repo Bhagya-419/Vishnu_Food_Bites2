@@ -162,7 +162,7 @@ http://localhost/VISHNU_FOOD_BITES2/
 ## 🎥 Project Demo
 
 👉 Click to watch demo:
-https://github.com/user-attachments/assets/f3b83994-fe49-4b9a-b17c-f98ffa8b641c
+[https://github.com/user-attachments/assets/f3b83994-fe49-4b9a-b17c-f98ffa8b641c](https://drive.google.com/file/d/1addrvLMV-fRS3KTPQAAPQ_Z0_8kudyoK/view?usp=sharing)
 
 ---
 
